@@ -1,0 +1,14 @@
+#canvas{
+  width: : 600px;
+  padding: 100px;
+  text-align: center;
+  border: 1px solid #333;
+}
+
+span{
+    background: red;
+}
+
+.available span{
+    background: green;
+}
